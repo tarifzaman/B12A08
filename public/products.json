@@ -1,362 +1,362 @@
 [
-    {
-      "image": "https://i.pinimg.com/1200x/f4/b6/ff/f4b6fffcc315bae904166c233fcb0f13.jpg",
-      "title": "Cosmic Explorer",
-      "companyName": "Star Labs",
-      "id": 1,
-      "description": "An educational app offering interactive tours of the solar system and deep space objects with stunning visuals. Ideal for students and space enthusiasts.",
-      "size": 75.5,
-      "reviews": 12500,
-      "ratingAvg": 4.8,
-      "downloads": 985000,
-      "ratings": [
-        { "name": "1 star", "count": 150 },
-        { "name": "2 star", "count": 250 },
-        { "name": "3 star", "count": 500 },
-        { "name": "4 star", "count": 3500 },
-        { "name": "5 star", "count": 8100 }
-      ]
-    },
-    {
-      "image": "https://i.pinimg.com/1200x/c8/b1/4f/c8b14fe7ee46f8f4763209937d260ab3.jpg",
-      "title": "Pixel Art Maker",
-      "companyName": "Digital Canvas Inc.",
-      "id": 2,
-      "description": "A powerful and intuitive tool for creating beautiful pixel art. Supports multiple layers, custom palettes, and GIF export.",
-      "size": 42.1,
-      "reviews": 8900,
-      "ratingAvg": 4.5,
-      "downloads": 560000,
-      "ratings": [
-        { "name": "1 star", "count": 100 },
-        { "name": "2 star", "count": 200 },
-        { "name": "3 star", "count": 700 },
-        { "name": "4 star", "count": 3900 },
-        { "name": "5 star", "count": 4000 }
-      ]
-    },
-    {
-      "image": "https://i.pinimg.com/1200x/52/88/e9/5288e904462b08a65196179399da57e7.jpg",
-      "title": "CodeMentor Pro",
-      "companyName": "Dev Solutions",
-      "id": 3,
-      "description": "The ultimate mobile IDE for coding on the go. Supports Python, JavaScript, and C++. Includes auto-completion and syntax highlighting.",
-      "size": 120.0,
-      "reviews": 150000,
-      "ratingAvg": 4.9,
-      "downloads": 12000000,
-      "ratings": [
-        { "name": "1 star", "count": 2000 },
-        { "name": "2 star", "count": 3000 },
-        { "name": "3 star", "count": 5000 },
-        { "name": "4 star", "count": 40000 },
-        { "name": "5 star", "count": 100000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app4.png",
-      "title": "Zen Garden",
-      "companyName": "Mindful Technologies",
-      "id": 4,
-      "description": "Relaxation and meditation assistant with guided sessions, nature sounds, and sleep stories. Perfect for stress relief.",
-      "size": 95.8,
-      "reviews": 25000,
-      "ratingAvg": 4.7,
-      "downloads": 2300000,
-      "ratings": [
-        { "name": "1 star", "count": 50 },
-        { "name": "2 star", "count": 150 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 9000 },
-        { "name": "5 star", "count": 15500 }
-      ]
-    },
-    {
-      "image": "/assets/images/app5.png",
-      "title": "Recipe Finder",
-      "companyName": "Kitchen AI",
-      "id": 5,
-      "description": "Search and save millions of recipes from around the world. Filter by diet, cuisine, and ingredients you have on hand.",
-      "size": 30.2,
-      "reviews": 11000,
-      "ratingAvg": 4.4,
-      "downloads": 1500000,
-      "ratings": [
-        { "name": "1 star", "count": 500 },
-        { "name": "2 star", "count": 600 },
-        { "name": "3 star", "count": 1000 },
-        { "name": "4 star", "count": 4900 },
-        { "name": "5 star", "count": 4000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app6.png",
-      "title": "Fitness Tracker X",
-      "companyName": "Body Metrics Co.",
-      "id": 6,
-      "description": "Track workouts, calories, and goals with detailed charts and motivation guides. Syncs with popular smartwatches.",
-      "size": 65.9,
-      "reviews": 70000,
-      "ratingAvg": 4.6,
-      "downloads": 5100000,
-      "ratings": [
-        { "name": "1 star", "count": 1000 },
-        { "name": "2 star", "count": 2000 },
-        { "name": "3 star", "count": 4000 },
-        { "name": "4 star", "count": 23000 },
-        { "name": "5 star", "count": 40000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app7.png",
-      "title": "Language Leap",
-      "companyName": "Global Speak",
-      "id": 7,
-      "description": "Learn over 30 languages through interactive games and personalized lessons based on real-life conversations.",
-      "size": 88.4,
-      "reviews": 55000,
-      "ratingAvg": 4.7,
-      "downloads": 4800000,
-      "ratings": [
-        { "name": "1 star", "count": 500 },
-        { "name": "2 star", "count": 1500 },
-        { "name": "3 star", "count": 3000 },
-        { "name": "4 star", "count": 20000 },
-        { "name": "5 star", "count": 30000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app8.png",
-      "title": "Digital Wallet",
-      "companyName": "Secure FinTech",
-      "id": 8,
-      "description": "Securely manage all your credit, debit, and loyalty cards digitally. Offers touchless payment integration.",
-      "size": 25.0,
-      "reviews": 95000,
-      "ratingAvg": 4.8,
-      "downloads": 7500000,
-      "ratings": [
-        { "name": "1 star", "count": 500 },
-        { "name": "2 star", "count": 1000 },
-        { "name": "3 star", "count": 2000 },
-        { "name": "4 star", "count": 20000 },
-        { "name": "5 star", "count": 71500 }
-      ]
-    },
-    {
-      "image": "/assets/images/app9.png",
-      "title": "QuickSketch",
-      "companyName": "Art Flow Studios",
-      "id": 9,
-      "description": "A simple drawing app for quick ideas and doodles. Features basic brushes and color palettes.",
-      "size": 15.3,
-      "reviews": 40000,
-      "ratingAvg": 4.2,
-      "downloads": 3000000,
-      "ratings": [
-        { "name": "1 star", "count": 2000 },
-        { "name": "2 star", "count": 3000 },
-        { "name": "3 star", "count": 5000 },
-        { "name": "4 star", "count": 15000 },
-        { "name": "5 star", "count": 15000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app10.png",
-      "title": "Stock Tracker",
-      "companyName": "Market View",
-      "id": 10,
-      "description": "Real-time stock market data, customizable watchlists, and advanced charting tools for investors.",
-      "size": 55.7,
-      "reviews": 60000,
-      "ratingAvg": 4.7,
-      "downloads": 3900000,
-      "ratings": [
-        { "name": "1 star", "count": 100 },
-        { "name": "2 star", "count": 400 },
-        { "name": "3 star", "count": 2000 },
-        { "name": "4 star", "count": 20000 },
-        { "name": "5 star", "count": 37500 }
-      ]
-    },
-    {
-      "image": "/assets/images/app11.png",
-      "title": "Travel Buddy",
-      "companyName": "Explorer Apps",
-      "id": 11,
-      "description": "Plan your trips, manage bookings, and find local attractions easily. Works offline.",
-      "size": 70.1,
-      "reviews": 30000,
-      "ratingAvg": 4.3,
-      "downloads": 1800000,
-      "ratings": [
-        { "name": "1 star", "count": 1000 },
-        { "name": "2 star", "count": 2000 },
-        { "name": "3 star", "count": 4000 },
-        { "name": "4 star", "count": 10000 },
-        { "name": "5 star", "count": 13000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app12.png",
-      "title": "Music Mixer Pro",
-      "companyName": "Acoustic Dreams",
-      "id": 12,
-      "description": "Create, mix, and record your own music tracks with a variety of digital instruments and effects.",
-      "size": 150.9,
-      "reviews": 22000,
-      "ratingAvg": 4.6,
-      "downloads": 1100000,
-      "ratings": [
-        { "name": "1 star", "count": 500 },
-        { "name": "2 star", "count": 500 },
-        { "name": "3 star", "count": 1000 },
-        { "name": "4 star", "count": 10000 },
-        { "name": "5 star", "count": 10000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app13.png",
-      "title": "Eco-Scanner",
-      "companyName": "Green Planet Co.",
-      "id": 13,
-      "description": "Scan barcodes to check the sustainability and ethical sourcing of products you buy.",
-      "size": 28.5,
-      "reviews": 50000,
-      "ratingAvg": 4.9,
-      "downloads": 4500000,
-      "ratings": [
-        { "name": "1 star", "count": 200 },
-        { "name": "2 star", "count": 300 },
-        { "name": "3 star", "count": 500 },
-        { "name": "4 star", "count": 15000 },
-        { "name": "5 star", "count": 34000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app14.png",
-      "title": "Home Planner AR",
-      "companyName": "Vision Tech",
-      "id": 14,
-      "description": "Use Augmented Reality (AR) to visualize furniture and decor in your home before you buy them.",
-      "size": 180.0,
-      "reviews": 35000,
-      "ratingAvg": 4.5,
-      "downloads": 2200000,
-      "ratings": [
-        { "name": "1 star", "count": 1500 },
-        { "name": "2 star", "count": 2000 },
-        { "name": "3 star", "count": 3500 },
-        { "name": "4 star", "count": 10000 },
-        { "name": "5 star", "count": 18000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app15.png",
-      "title": "Game Zone",
-      "companyName": "Hyper Play",
-      "id": 15,
-      "description": "A collection of retro arcade games optimized for mobile play, featuring weekly tournaments.",
-      "size": 10.5,
-      "reviews": 80000,
-      "ratingAvg": 4.1,
-      "downloads": 6500000,
-      "ratings": [
-        { "name": "1 star", "count": 5000 },
-        { "name": "2 star", "count": 8000 },
-        { "name": "3 star", "count": 10000 },
-        { "name": "4 star", "count": 27000 },
-        { "name": "5 star", "count": 30000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app16.png",
-      "title": "Photo Editor Pro",
-      "companyName": "Image Magic",
-      "id": 16,
-      "description": "Professional photo editing with advanced filters, layers, and non-destructive editing tools.",
-      "size": 110.2,
-      "reviews": 100000,
-      "ratingAvg": 4.7,
-      "downloads": 8800000,
-      "ratings": [
-        { "name": "1 star", "count": 1000 },
-        { "name": "2 star", "count": 2000 },
-        { "name": "3 star", "count": 5000 },
-        { "name": "4 star", "count": 32000 },
-        { "name": "5 star", "count": 60000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app17.png",
-      "title": "Local Guide",
-      "companyName": "City Maps Inc.",
-      "id": 17,
-      "description": "Find the best local restaurants, hidden gems, and events based on your current location and preferences.",
-      "size": 45.9,
-      "reviews": 45000,
-      "ratingAvg": 4.6,
-      "downloads": 3500000,
-      "ratings": [
-        { "name": "1 star", "count": 500 },
-        { "name": "2 star", "count": 1000 },
-        { "name": "3 star", "count": 2500 },
-        { "name": "4 star", "count": 15000 },
-        { "name": "5 star", "count": 26000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app18.png",
-      "title": "Mind Reader AI",
-      "companyName": "Future Tech",
-      "id": 18,
-      "description": "An experimental AI chatbot that attempts to guess what you're thinking using advanced NLP models.",
-      "size": 60.5,
-      "reviews": 15000,
-      "ratingAvg": 3.9,
-      "downloads": 900000,
-      "ratings": [
-        { "name": "1 star", "count": 3000 },
-        { "name": "2 star", "count": 3000 },
-        { "name": "3 star", "count": 4000 },
-        { "name": "4 star", "count": 3000 },
-        { "name": "5 star", "count": 2000 }
-      ]
-    },
-    {
-      "image": "/assets/images/app19.png",
-      "title": "Smart Notes",
-      "companyName": "Productivity Hub",
-      "id": 19,
-      "description": "Digital note-taking app with markdown support, cloud sync, and organizational tags.",
-      "size": 22.1,
-      "reviews": 70000,
-      "ratingAvg": 4.8,
-      "downloads": 6000000,
-      "ratings": [
-        { "name": "1 star", "count": 200 },
-        { "name": "2 star", "count": 500 },
-        { "name": "3 star", "count": 1000 },
-        { "name": "4 star", "count": 20000 },
-        { "name": "5 star", "count": 48300 }
-      ]
-    },
-    {
-      "image": "/assets/images/app20.png",
-      "title": "Weather Live",
-      "companyName": "Atmosphere Data",
-      "id": 20,
-      "description": "Accurate, real-time weather forecasts with beautiful animated radar maps and severe weather alerts.",
-      "size": 40.0,
-      "reviews": 120000,
-      "ratingAvg": 4.5,
-      "downloads": 10500000,
-      "ratings": [
-        { "name": "1 star", "count": 2000 },
-        { "name": "2 star", "count": 3000 },
-        { "name": "3 star", "count": 5000 },
-        { "name": "4 star", "count": 40000 },
-        { "name": "5 star", "count": 70000 }
-      ]
-    }
-  ]
+  {
+    "image": "https://i.pinimg.com/1200x/f4/b6/ff/f4b6fffcc315bae904166c233fcb0f13.jpg",
+    "title": "Cosmic Explorer",
+    "companyName": "Star Labs",
+    "id": 1,
+    "description": "An educational app offering interactive tours of the solar system and deep space objects with stunning visuals. Ideal for students and space enthusiasts.",
+    "size": 75.5,
+    "reviews": 12500,
+    "ratingAvg": 4.8,
+    "downloads": "985K",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/c8/b1/4f/c8b14fe7ee46f8f4763209937d260ab3.jpg",
+    "title": "Pixel Art Maker",
+    "companyName": "Digital Canvas Inc.",
+    "id": 2,
+    "description": "A powerful and intuitive tool for creating beautiful pixel art. Supports multiple layers, custom palettes, and GIF export.",
+    "size": 42.1,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "560K",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/52/88/e9/5288e904462b08a65196179399da57e7.jpg",
+    "title": "CodeMentor Pro",
+    "companyName": "Dev Solutions",
+    "id": 3,
+    "description": "The ultimate mobile IDE for coding on the go. Supports Python, JavaScript, and C++. Includes auto-completion and syntax highlighting.",
+    "size": 120.0,
+    "reviews": 150000,
+    "ratingAvg": 4.9,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/25/55/80/255580995b2ee6387a0e10451a546a7a.jpg",
+    "title": "Zen Garden",
+    "companyName": "Mindful Technologies",
+    "id": 4,
+    "description": "Relaxation and meditation assistant with guided sessions, nature sounds, and sleep stories. Perfect for stress relief.",
+    "size": 95.8,
+    "reviews": 25000,
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/5f/5a/f9/5f5af95f556452c5823135fd9861ad5a.jpg",
+    "title": "Recipe Finder",
+    "companyName": "Kitchen AI",
+    "id": 5,
+    "description": "Search and save millions of recipes from around the world. Filter by diet, cuisine, and ingredients you have on hand.",
+    "size": 30.2,
+    "reviews": 11000,
+    "ratingAvg": 4.4,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/45/52/40/4552400ef84d3d18426716a54a134b15.jpg",
+    "title": "Fitness Tracker X",
+    "companyName": "Body Metrics Co.",
+    "id": 6,
+    "description": "Track workouts, calories, and goals with detailed charts and motivation guides. Syncs with popular smartwatches.",
+    "size": 65.9,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": "5.1M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 23000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/9e/02/6d/9e026daae7b4b5343dcead0967b660cb.jpg",
+    "title": "Language Leap",
+    "companyName": "Global Speak",
+    "id": 7,
+    "description": "Learn over 30 languages through interactive games and personalized lessons based on real-life conversations.",
+    "size": 88.4,
+    "reviews": 55000,
+    "ratingAvg": 4.7,
+    "downloads": "4.8M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/cd/f5/3c/cdf53ced16169dc73a8698417fdf8397.jpg",
+    "title": "Digital Wallet",
+    "companyName": "Secure FinTech",
+    "id": 8,
+    "description": "Securely manage all your credit, debit, and loyalty cards digitally. Offers touchless payment integration.",
+    "size": 25.0,
+    "reviews": 95000,
+    "ratingAvg": 4.8,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 71500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/c7/64/9f/c7649fff8b74a8b24f66db2bca017c22.jpg",
+    "title": "QuickSketch",
+    "companyName": "Art Flow Studios",
+    "id": 9,
+    "description": "A simple drawing app for quick ideas and doodles. Features basic brushes and color palettes.",
+    "size": 15.3,
+    "reviews": 40000,
+    "ratingAvg": 4.2,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/7a/c2/0d/7ac20d2c80f07b8f7a64662461f1ddb1.jpg",
+    "title": "Stock Tracker",
+    "companyName": "Market View",
+    "id": 10,
+    "description": "Real-time stock market data, customizable watchlists, and advanced charting tools for investors.",
+    "size": 55.7,
+    "reviews": 60000,
+    "ratingAvg": 4.7,
+    "downloads": "3.9M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 37500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/29/51/66/295166ca077537836a05c07c19339746.jpg",
+    "title": "Travel Buddy",
+    "companyName": "Explorer Apps",
+    "id": 11,
+    "description": "Plan your trips, manage bookings, and find local attractions easily. Works offline.",
+    "size": 70.1,
+    "reviews": 30000,
+    "ratingAvg": 4.3,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/9a/5a/09/9a5a092e2756920e1e07ce65194dbc24.jpg",
+    "title": "Music Mixer Pro",
+    "companyName": "Acoustic Dreams",
+    "id": 12,
+    "description": "Create, mix, and record your own music tracks with a variety of digital instruments and effects.",
+    "size": 150.9,
+    "reviews": 22000,
+    "ratingAvg": 4.6,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/3f/16/c1/3f16c1a6901221211cc1ebf4cfe76394.jpg",
+    "title": "Eco-Scanner",
+    "companyName": "Green Planet Co.",
+    "id": 13,
+    "description": "Scan barcodes to check the sustainability and ethical sourcing of products you buy.",
+    "size": 28.5,
+    "reviews": 50000,
+    "ratingAvg": 4.9,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 34000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/60/ae/7e/60ae7e717df65f40f0c7f4017caa2ffc.jpg",
+    "title": "Home Planner AR",
+    "companyName": "Vision Tech",
+    "id": 14,
+    "description": "Use Augmented Reality (AR) to visualize furniture and decor in your home before you buy them.",
+    "size": 180.0,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/1e/55/14/1e55147e2bced61d7bed2c89cfc2d1c2.jpg",
+    "title": "Game Zone",
+    "companyName": "Hyper Play",
+    "id": 15,
+    "description": "A collection of retro arcade games optimized for mobile play, featuring weekly tournaments.",
+    "size": 10.5,
+    "reviews": 80000,
+    "ratingAvg": 4.1,
+    "downloads": "6.5M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 27000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/d3/d5/a3/d3d5a3e259ee8ca212d85f07e92c16cd.jpg",
+    "title": "Photo Editor Pro",
+    "companyName": "Image Magic",
+    "id": 16,
+    "description": "Professional photo editing with advanced filters, layers, and non-destructive editing tools.",
+    "size": 110.2,
+    "reviews": 100000,
+    "ratingAvg": 4.7,
+    "downloads": "8.8M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/e8/3a/fc/e83afcd1de480c67d110a301a53a70e5.jpg",
+    "title": "Local Guide",
+    "companyName": "City Maps Inc.",
+    "id": 17,
+    "description": "Find the best local restaurants, hidden gems, and events based on your current location and preferences.",
+    "size": 45.9,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/2c/55/3d/2c553daa4ceddd85b0fc77a6c2f978ff.jpg",
+    "title": "Mind Reader AI",
+    "companyName": "Future Tech",
+    "id": 18,
+    "description": "An experimental AI chatbot that attempts to guess what you're thinking using advanced NLP models.",
+    "size": 60.5,
+    "reviews": 15000,
+    "ratingAvg": 3.9,
+    "downloads": "900K",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/46/07/dd/4607dd542a2ba5a1ff89c83a2ec9b239.jpg",
+    "title": "Smart Notes",
+    "companyName": "Productivity Hub",
+    "id": 19,
+    "description": "Digital note-taking app with markdown support, cloud sync, and organizational tags.",
+    "size": 22.1,
+    "reviews": 70000,
+    "ratingAvg": 4.8,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 46500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/3b/3f/56/3b3f5655e2d2c6f1466e1a6ec58b0c33.jpg",
+    "title": "Weather Watch",
+    "companyName": "SkyNet Apps",
+    "id": 20,
+    "description": "Real-time weather forecasts with alerts, radar maps, and severe weather notifications.",
+    "size": 35.4,
+    "reviews": 95000,
+    "ratingAvg": 4.7,
+    "downloads": "7.2M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 57000 }
+    ]
+  }
+]
