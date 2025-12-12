@@ -1,6 +1,6 @@
 [
     {
-      "image": "/assets/images/app1.png",
+      "image": "https://i.pinimg.com/1200x/f4/b6/ff/f4b6fffcc315bae904166c233fcb0f13.jpg",
       "title": "Cosmic Explorer",
       "companyName": "Star Labs",
       "id": 1,
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "image": "/assets/images/app2.png",
+      "image": "https://i.pinimg.com/1200x/c8/b1/4f/c8b14fe7ee46f8f4763209937d260ab3.jpg",
       "title": "Pixel Art Maker",
       "companyName": "Digital Canvas Inc.",
       "id": 2,
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "image": "/assets/images/app3.png",
+      "image": "https://i.pinimg.com/1200x/52/88/e9/5288e904462b08a65196179399da57e7.jpg",
       "title": "CodeMentor Pro",
       "companyName": "Dev Solutions",
       "id": 3,

@@ -1,7 +1,7 @@
 import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
-const AppReviewChart = ({ ratings }) => {
+const ProductReviewChart = ({ ratings }) => {
   // ডেটা ফরম্যাট: ratings [ { name: "1 star", count: 150 }, ... ]
   // chartData array-কে উল্টে দিচ্ছি যাতে 5 star উপরে থাকে (Figma Design অনুযায়ী)
   const chartData = [...ratings].reverse();
@@ -38,4 +38,4 @@ const AppReviewChart = ({ ratings }) => {
   );
 };
 
-export default AppReviewChart;
+export default ProductReviewChart;
